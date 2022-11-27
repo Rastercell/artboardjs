@@ -1,0 +1,28 @@
+{
+	"name": "artboardjs",
+	"version": "1.0.0",
+	"description": "A simple and powerful drawing tool for javascript",
+	"main": "index.js",
+	"scripts": {
+		"test": "npm test artboardjs"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/Rastercell/artboardjs.git"
+	},
+	"keywords": [
+		"artboardjs",
+		"drawing",
+		"drawing-tool",
+		"art-tool",
+		"draw",
+		"sketch",
+		"sketch-tool"
+	],
+	"author": "Rastercell",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/Rastercell/artboardjs/issues"
+	},
+	"homepage": "https://github.com/Rastercell/artboardjs#readme"
+}
